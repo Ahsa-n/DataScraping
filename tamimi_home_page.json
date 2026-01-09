@@ -1,0 +1,4252 @@
+{
+  "code": 200,
+  "data": {
+    "page": {
+      "id": 1,
+      "layouts": [
+        {
+          "data": {
+            "images": [
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260108/a20241dd-4266-4188-b891-09034efb92cb-RAMADANEN60126.webp",
+                "link": "//tag/ramadan-18"
+              },
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260107/0dffb004-e3a2-4cb1-9cf0-b88356981922-LIQUIDHANDSOAPEN60126.webp",
+                "link": "//tag/liquid-hand-soap"
+              },
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260106/5766e39f-637d-4ec5-8809-6d70c06d5fd0-DISPOSABLESEN60126.webp",
+                "link": "//tag/disposables-30"
+              },
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260106/66e5900e-69e1-4cf1-b308-88b58f342bf9-GroceryEN60126.webp",
+                "link": "//tag/grocery-66"
+              },
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260106/e5e9ac0c-8e27-41ae-9d05-c163cbaefed9-FrozenEN60126.webp",
+                "link": "//tag/frozen-146"
+              },
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260106/52ef206b-f48f-4c9e-9ffb-4d6167339f77-DELIEN60126.webp",
+                "link": "//tag/deli-32"
+              },
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260106/1163f69c-bd5a-46a9-8196-f20209bb0857-HLEN60126.webp",
+                "link": "//tag/healthy-living-46"
+              },
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260106/de740be0-167a-4807-be81-74f836f90574-DairyEN601261.webp",
+                "link": "//tag/dairy-112"
+              }
+            ]
+          },
+          "name": "ImageSlideShow",
+          "value": {
+            "images": [
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260108/a20241dd-4266-4188-b891-09034efb92cb-RAMADANEN60126.webp",
+                "link": "//tag/ramadan-18"
+              },
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260107/0dffb004-e3a2-4cb1-9cf0-b88356981922-LIQUIDHANDSOAPEN60126.webp",
+                "link": "//tag/liquid-hand-soap"
+              },
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260106/5766e39f-637d-4ec5-8809-6d70c06d5fd0-DISPOSABLESEN60126.webp",
+                "link": "//tag/disposables-30"
+              },
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260106/66e5900e-69e1-4cf1-b308-88b58f342bf9-GroceryEN60126.webp",
+                "link": "//tag/grocery-66"
+              },
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260106/e5e9ac0c-8e27-41ae-9d05-c163cbaefed9-FrozenEN60126.webp",
+                "link": "//tag/frozen-146"
+              },
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260106/52ef206b-f48f-4c9e-9ffb-4d6167339f77-DELIEN60126.webp",
+                "link": "//tag/deli-32"
+              },
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260106/1163f69c-bd5a-46a9-8196-f20209bb0857-HLEN60126.webp",
+                "link": "//tag/healthy-living-46"
+              },
+              {
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260106/de740be0-167a-4807-be81-74f836f90574-DairyEN601261.webp",
+                "link": "//tag/dairy-112"
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "images": [
+              {
+                "gifUrl": "",
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260108/1e140ccc-6372-4177-8d2b-2ef85753e269-EXDEN.webp",
+                "link": "m/tag/special-offer-2",
+                "text": ""
+              }
+            ]
+          },
+          "name": "ImageSlideShow",
+          "value": {
+            "images": [
+              {
+                "gifUrl": "",
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20260108/1e140ccc-6372-4177-8d2b-2ef85753e269-EXDEN.webp",
+                "link": "m/tag/special-offer-2",
+                "text": ""
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "category": [],
+            "categoryIds": [
+              "T12",
+              "T2"
+            ],
+            "fullImage": true,
+            "layoutType": "GRID",
+            "showProductCount": false,
+            "subtitle": "",
+            "title": ""
+          },
+          "name": "CategoryCollection",
+          "value": {
+            "collection": [
+              {
+                "category": {
+                  "entityType": "TAG",
+                  "id": 12,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/79b3a3be-ead2-4651-b9b2-d9a3df54d46c-WeeklyOffers.webp",
+                  "name": "Weekly Offers",
+                  "productsCount": 2826,
+                  "slug": "weekly-offers-1"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "TAG",
+                  "id": 2,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/ce923112-0b9f-451b-8e89-98f0cefe3d7d-ExclusiveBrands.webp",
+                  "name": "Exclusive Brands",
+                  "productsCount": 670,
+                  "slug": "exclusive-deals"
+                }
+              }
+            ],
+            "title": ""
+          }
+        },
+        {
+          "data": {
+            "category": [],
+            "categoryIds": [
+              "C3",
+              "C7",
+              "C13",
+              "C20",
+              "C24",
+              "C27",
+              "C36",
+              "C44",
+              "C48",
+              "C49",
+              "C54",
+              "C57",
+              "C65",
+              "C68",
+              "C89",
+              "C82",
+              "C97",
+              "C109",
+              "C127",
+              "C199",
+              "C211",
+              "C235",
+              "C3023",
+              "C186",
+              "C247",
+              "C182"
+            ],
+            "layoutType": "GRID",
+            "showProductCount": true,
+            "showSubCategoryLinks": true,
+            "title": "Shop by Department"
+          },
+          "name": "CategoryCollection",
+          "value": {
+            "collection": [
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 3,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240904/101-20240904-061615.webp",
+                  "name": "FRUITS & VEGETABLES",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 2,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-01-20231130-074417.png",
+                    "name": "FRESH",
+                    "productsCount": 4092,
+                    "slug": "fresh"
+                  },
+                  "productsCount": 690,
+                  "slug": "fruits--vegetables"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 7,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20210122/TM1.2BAKERY-20210122-185350.png",
+                  "name": "BAKERY",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 2,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-01-20231130-074417.png",
+                    "name": "FRESH",
+                    "productsCount": 4092,
+                    "slug": "fresh"
+                  },
+                  "productsCount": 686,
+                  "slug": "bakery"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 13,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20190612/TM1.3MEAT-20190612-034224.png",
+                  "name": "MEAT",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 2,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-01-20231130-074417.png",
+                    "name": "FRESH",
+                    "productsCount": 4092,
+                    "slug": "fresh"
+                  },
+                  "productsCount": 244,
+                  "slug": "meat"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 20,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20240107/4-12-20240107-123154.png",
+                  "name": "CHICKEN",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 2,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-01-20231130-074417.png",
+                    "name": "FRESH",
+                    "productsCount": 4092,
+                    "slug": "fresh"
+                  },
+                  "productsCount": 268,
+                  "slug": "poultry"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 24,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20210122/TM1.5SEAFOOD-20210122-185409.png",
+                  "name": "SEAFOOD",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 2,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-01-20231130-074417.png",
+                    "name": "FRESH",
+                    "productsCount": 4092,
+                    "slug": "fresh"
+                  },
+                  "productsCount": 145,
+                  "slug": "seafood"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 27,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231204/3-12-06-20231204-065816.png",
+                  "name": "DELI",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 2,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-01-20231130-074417.png",
+                    "name": "FRESH",
+                    "productsCount": 4092,
+                    "slug": "fresh"
+                  },
+                  "productsCount": 777,
+                  "slug": "deli"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 36,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250313/15307-20250313-074312.webp",
+                  "name": "DAIRY",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 2,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-01-20231130-074417.png",
+                    "name": "FRESH",
+                    "productsCount": 4092,
+                    "slug": "fresh"
+                  },
+                  "productsCount": 1217,
+                  "slug": "dairy"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 44,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-08-20231130-084105.png",
+                  "name": "FLORAL",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 2,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-01-20231130-074417.png",
+                    "name": "FRESH",
+                    "productsCount": 4092,
+                    "slug": "fresh"
+                  },
+                  "productsCount": 65,
+                  "slug": "floral"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 48,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231203/1-09-20231203-084014.png",
+                  "name": "FOOD & BEVERAGES",
+                  "productsCount": 9565,
+                  "slug": "food--beverages"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 49,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231203/1-10-20231203-080147.png",
+                  "name": "BREAKFAST",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 48,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231203/1-09-20231203-084014.png",
+                    "name": "FOOD & BEVERAGES",
+                    "productsCount": 9565,
+                    "slug": "food--beverages"
+                  },
+                  "productsCount": 1064,
+                  "slug": "breakfast"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 54,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20251221/3ca62195-5480-4274-80ac-f84bbd9ac073-15311.webp",
+                  "name": "SNACKS & CONFECTIONERY",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 48,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231203/1-09-20231203-084014.png",
+                    "name": "FOOD & BEVERAGES",
+                    "productsCount": 9565,
+                    "slug": "food--beverages"
+                  },
+                  "productsCount": 2324,
+                  "slug": "snacks--confectionery"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 57,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20251231/64eade4f-a104-4633-beb5-a2411dcb3066-chocalet.webp",
+                  "name": "CHOCOLATES",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 54,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20251221/3ca62195-5480-4274-80ac-f84bbd9ac073-15311.webp",
+                    "name": "SNACKS & CONFECTIONERY",
+                    "parentCategory": {
+                      "entityType": "",
+                      "id": 48,
+                      "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231203/1-09-20231203-084014.png",
+                      "name": "FOOD & BEVERAGES",
+                      "productsCount": 9565,
+                      "slug": "food--beverages"
+                    },
+                    "productsCount": 2324,
+                    "slug": "snacks--confectionery"
+                  },
+                  "productsCount": 531,
+                  "slug": "chocolates"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 65,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-12-20231130-075712.png",
+                  "name": "OIL & GHEE",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 48,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231203/1-09-20231203-084014.png",
+                    "name": "FOOD & BEVERAGES",
+                    "productsCount": 9565,
+                    "slug": "food--beverages"
+                  },
+                  "productsCount": 152,
+                  "slug": "oil--ghee"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 68,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-13-20231130-081737.png",
+                  "name": "RICE & PASTA",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 48,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231203/1-09-20231203-084014.png",
+                    "name": "FOOD & BEVERAGES",
+                    "productsCount": 9565,
+                    "slug": "food--beverages"
+                  },
+                  "productsCount": 274,
+                  "slug": "rice--pasta"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 89,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-14-20231130-091601.png",
+                  "name": "BAKING",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 48,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231203/1-09-20231203-084014.png",
+                    "name": "FOOD & BEVERAGES",
+                    "productsCount": 9565,
+                    "slug": "food--beverages"
+                  },
+                  "productsCount": 554,
+                  "slug": "baking"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 82,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250422/315-20250422-083701.webp",
+                  "name": "WATER & BEVERAGES",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 48,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231203/1-09-20231203-084014.png",
+                    "name": "FOOD & BEVERAGES",
+                    "productsCount": 9565,
+                    "slug": "food--beverages"
+                  },
+                  "productsCount": 1059,
+                  "slug": "water--beverages"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 97,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-16-20231130-063251.png",
+                  "name": "FROZEN",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 48,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231203/1-09-20231203-084014.png",
+                    "name": "FOOD & BEVERAGES",
+                    "productsCount": 9565,
+                    "slug": "food--beverages"
+                  },
+                  "productsCount": 1529,
+                  "slug": "frozen"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 109,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20251209/ff13bbaf-490d-4946-b72b-98db04783d2a-HEL.webp",
+                  "name": "HEALTHY LIVING",
+                  "productsCount": 2244,
+                  "slug": "healthy-living"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 127,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231129/1-18-20231129-060742.png",
+                  "name": "HEALTH & BEAUTY",
+                  "productsCount": 2528,
+                  "slug": "health--beauty"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 199,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-19-20231130-083913.png",
+                  "name": "DISPOSABLES",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 182,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-25-20231130-070252.png",
+                    "name": "HOUSEHOLD",
+                    "productsCount": 3167,
+                    "slug": "household"
+                  },
+                  "productsCount": 338,
+                  "slug": "disposables"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 211,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-20-20231130-085333.png",
+                  "name": "KITCHEN SHOP",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 182,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-25-20231130-070252.png",
+                    "name": "HOUSEHOLD",
+                    "productsCount": 3167,
+                    "slug": "household"
+                  },
+                  "productsCount": 895,
+                  "slug": "kitchen-shop"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 235,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-21-20231130-072024.png",
+                  "name": "BABY",
+                  "productsCount": 393,
+                  "slug": "baby-1"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 3023,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-22-20231130-082118.png",
+                  "name": "TAMIMI",
+                  "productsCount": 818,
+                  "slug": "tamimi-product"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 186,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-23-20231130-070146.png",
+                  "name": "LAUNDRY DETERGENT",
+                  "parentCategory": {
+                    "entityType": "",
+                    "id": 182,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-25-20231130-070252.png",
+                    "name": "HOUSEHOLD",
+                    "productsCount": 3167,
+                    "slug": "household"
+                  },
+                  "productsCount": 369,
+                  "slug": "laundry-detergent"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 247,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-24-20231130-063503.png",
+                  "name": "PETS",
+                  "productsCount": 296,
+                  "slug": "pets"
+                }
+              },
+              {
+                "category": {
+                  "entityType": "CATEGORY",
+                  "id": 182,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20231130/1-25-20231130-070252.png",
+                  "name": "HOUSEHOLD",
+                  "productsCount": 3167,
+                  "slug": "household"
+                }
+              }
+            ],
+            "title": "Shop by Department"
+          }
+        },
+        {
+          "data": {
+            "hasImage": 1,
+            "hasOffers": 1,
+            "hasStock": 1,
+            "layoutType": "SCROLLER",
+            "loadMoreType": "SEEALL",
+            "sorting": "POPULARITY",
+            "title": "Best Sellers"
+          },
+          "name": "ProductCollection",
+          "value": {
+            "collection": {
+              "count": 4750,
+              "limit": 20,
+              "offset": 0,
+              "product": [
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 7017,
+                    "image": null,
+                    "logo": null,
+                    "name": "KSA",
+                    "productsCount": 391,
+                    "slug": "ksa"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 1729,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "123254_1"
+                  },
+                  "name": "Tomato",
+                  "offers": [],
+                  "primaryCategoryId": 5,
+                  "restrictions": null,
+                  "slug": "tomato-6",
+                  "soldByWeight": 1,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "Special Offer",
+                      "slug": "special-offer-1"
+                    },
+                    {
+                      "description": "",
+                      "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/79b3a3be-ead2-4651-b9b2-d9a3df54d46c-WeeklyOffers.webp",
+                      "name": "Weekly Offers",
+                      "slug": "weekly-offers-1"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Tomato-2.0 KG",
+                      "id": 21605,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/123254_1-20231019-120709.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/123254_1-20231019-120709.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "2.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "4.4",
+                          "mrp": "9.9",
+                          "stock": 16,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 2000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Tomato-1.5 KG",
+                      "id": 21604,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/123254_1-20231019-120709.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/123254_1-20231019-120709.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.5 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "3.3",
+                          "mrp": "7.43",
+                          "stock": 22,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Tomato-1.0 KG",
+                      "id": 21603,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/123254_1-20231019-120709.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/123254_1-20231019-120709.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "2.2",
+                          "mrp": "4.95",
+                          "stock": 32,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Tomato-500 G",
+                      "id": 21602,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/123254_1-20231019-120709.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/123254_1-20231019-120709.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "500 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "1.1",
+                          "mrp": "2.48",
+                          "stock": 65,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 7140,
+                    "image": null,
+                    "logo": null,
+                    "name": "Driscoll's USA",
+                    "productsCount": 4,
+                    "slug": "driscolls-usa"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 1107750,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "316480_1"
+                  },
+                  "name": "Blueberry",
+                  "offers": [],
+                  "primaryCategoryId": 4,
+                  "restrictions": null,
+                  "slug": "blueberry-67",
+                  "soldByWeight": 0,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Blueberry-125 G",
+                      "id": 259525,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251029/c0490edc-ef57-4d52-8d93-64fe7abdc2c6-3164801.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251029/c0490edc-ef57-4d52-8d93-64fe7abdc2c6-3164801.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "125 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "1.45",
+                          "mrp": "8.95",
+                          "stock": 224,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 6325,
+                    "image": null,
+                    "logo": null,
+                    "name": "Spain",
+                    "productsCount": 52,
+                    "slug": "spain"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 1110581,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "400753_1"
+                  },
+                  "name": "Clementine With Leaves",
+                  "offers": [],
+                  "primaryCategoryId": 4,
+                  "restrictions": null,
+                  "slug": "clementine-with-leaves-2",
+                  "soldByWeight": 1,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Clementine With Leaves-2.0 KG",
+                      "id": 263441,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251106/0b3fceba-3ed2-4b8d-83fc-57d8852f59b2-4007531.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251106/0b3fceba-3ed2-4b8d-83fc-57d8852f59b2-4007531.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "2.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "19.92",
+                          "mrp": "39.9",
+                          "stock": 5,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 2000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Clementine With Leaves-1.5 KG",
+                      "id": 263440,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251106/0b3fceba-3ed2-4b8d-83fc-57d8852f59b2-4007531.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251106/0b3fceba-3ed2-4b8d-83fc-57d8852f59b2-4007531.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.5 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "14.94",
+                          "mrp": "29.92",
+                          "stock": 6,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Clementine With Leaves-1.0 KG",
+                      "id": 263439,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251106/0b3fceba-3ed2-4b8d-83fc-57d8852f59b2-4007531.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251106/0b3fceba-3ed2-4b8d-83fc-57d8852f59b2-4007531.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "9.96",
+                          "mrp": "19.95",
+                          "stock": 10,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Clementine With Leaves-500 G",
+                      "id": 263438,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251106/0b3fceba-3ed2-4b8d-83fc-57d8852f59b2-4007531.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251106/0b3fceba-3ed2-4b8d-83fc-57d8852f59b2-4007531.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "500 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "4.98",
+                          "mrp": "9.98",
+                          "stock": 20,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Clementine With Leaves-250 G",
+                      "id": 263437,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251106/0b3fceba-3ed2-4b8d-83fc-57d8852f59b2-4007531.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251106/0b3fceba-3ed2-4b8d-83fc-57d8852f59b2-4007531.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "250 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "2.49",
+                          "mrp": "4.99",
+                          "stock": 46,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 250,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 2,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20190414/almarai-01-20190414-061647.jpg",
+                    "logo": null,
+                    "name": "Almarai",
+                    "productsCount": 232,
+                    "slug": "almarai"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 1273,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "1017"
+                  },
+                  "name": "Unsalted Natural Butter",
+                  "offers": [],
+                  "primaryCategoryId": 40,
+                  "restrictions": null,
+                  "slug": "unsalted-natural-butter",
+                  "soldByWeight": 0,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "Dairy",
+                      "slug": "dairy-109"
+                    },
+                    {
+                      "description": "",
+                      "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/79b3a3be-ead2-4651-b9b2-d9a3df54d46c-WeeklyOffers.webp",
+                      "name": "Weekly Offers",
+                      "slug": "weekly-offers-1"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Unsalted Natural Butter-3 × 100G",
+                      "id": 240202,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20240102/640-20240102-104750.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20240102/640-20240102-104750.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "3 × 100G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "4.45",
+                          "mrp": "21.95",
+                          "stock": 308,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Unsalted Natural Butter-50G",
+                      "id": 240171,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220523/284417_1-20220523-140015.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220523/284417_1-20220523-140015.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "50G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "4.95",
+                          "stock": 27,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Unsalted Natural Butter-1Kg",
+                      "id": 2739,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220523/296205_1-20220523-140030.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220523/296205_1-20220523-140030.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1Kg",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "59.95",
+                          "stock": 23,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Unsalted Natural Butter-200G",
+                      "id": 2730,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220523/287077_1-20220523-140043.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220523/287077_1-20220523-140043.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "200G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "15.95",
+                          "stock": 188,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Unsalted Natural Butter-100G",
+                      "id": 2729,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220523/284419_1-20220523-140021.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220523/284419_1-20220523-140021.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "100G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "8.95",
+                          "stock": 432,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Unsalted Natural Butter-100×10G",
+                      "id": 240173,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220523/292545_1-20220523-140017.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220523/292545_1-20220523-140017.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "100×10G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "59.95",
+                          "stock": 0,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Unsalted Natural Butter-4×100G",
+                      "id": 240172,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220523/287081_1-20220523-140012.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220523/287081_1-20220523-140012.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "4×100G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "23.5",
+                          "stock": 0,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Unsalted Natural Butter-400G",
+                      "id": 2731,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220523/287078_1-20220523-140024.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220523/287078_1-20220523-140024.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "400G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "26.5",
+                          "stock": 0,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 7017,
+                    "image": null,
+                    "logo": null,
+                    "name": "KSA",
+                    "productsCount": 391,
+                    "slug": "ksa"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 1109468,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "172280_1"
+                  },
+                  "name": "Onion White",
+                  "offers": [],
+                  "primaryCategoryId": 5,
+                  "restrictions": null,
+                  "slug": "onion-white",
+                  "soldByWeight": 1,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/79b3a3be-ead2-4651-b9b2-d9a3df54d46c-WeeklyOffers.webp",
+                      "name": "Weekly Offers",
+                      "slug": "weekly-offers-1"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Onion White-2.0 KG",
+                      "id": 261931,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250525/1722801-20250525-081617.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250525/1722801-20250525-081617.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "2.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "6.4",
+                          "mrp": "13.9",
+                          "stock": 41,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 2000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Onion White-1.5 KG",
+                      "id": 261930,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250525/1722801-20250525-081617.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250525/1722801-20250525-081617.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.5 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "4.8",
+                          "mrp": "10.43",
+                          "stock": 55,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Onion White-1.0 KG",
+                      "id": 261929,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250525/1722801-20250525-081617.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250525/1722801-20250525-081617.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "3.2",
+                          "mrp": "6.95",
+                          "stock": 82,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Onion White-500 G",
+                      "id": 261928,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250525/1722801-20250525-081617.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250525/1722801-20250525-081617.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "500 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "1.6",
+                          "mrp": "3.48",
+                          "stock": 166,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Onion White-250 G",
+                      "id": 261927,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250525/1722801-20250525-081617.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250525/1722801-20250525-081617.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "250 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0.8",
+                          "mrp": "1.74",
+                          "stock": 332,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 250,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 2,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20190414/almarai-01-20190414-061647.jpg",
+                    "logo": null,
+                    "name": "Almarai",
+                    "productsCount": 232,
+                    "slug": "almarai"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 1271,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "1015"
+                  },
+                  "name": "Premium Labneh Full Fat",
+                  "offers": [],
+                  "primaryCategoryId": 38,
+                  "restrictions": null,
+                  "slug": "premium-labneh-full-fat-turkish-style",
+                  "soldByWeight": 0,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "Dairy",
+                      "slug": "dairy-109"
+                    },
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "Special Offer",
+                      "slug": "special-offer-1"
+                    },
+                    {
+                      "description": "",
+                      "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/79b3a3be-ead2-4651-b9b2-d9a3df54d46c-WeeklyOffers.webp",
+                      "name": "Weekly Offers",
+                      "slug": "weekly-offers-1"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Premium Labneh Full Fat-700G",
+                      "id": 2726,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231012/297199_1-20231012-081844.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231012/297199_2-20231012-081847.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231012/297199_1-20231012-081844.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231012/297199_2-20231012-081847.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "700G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "11.26",
+                          "mrp": "25.25",
+                          "stock": 151,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Premium Labneh Full Fat-400G",
+                      "id": 2724,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231012/297198_1-20231012-082249.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231012/297198_2-20231012-082251.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231012/297198_3-20231012-082253.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231012/297198_1-20231012-082249.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231012/297198_2-20231012-082251.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231012/297198_3-20231012-082253.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "400G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "3.45",
+                          "mrp": "13.95",
+                          "stock": 237,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Premium Labneh Full Fat-3×180G",
+                      "id": 240782,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231012/369490_1-20231012-081242.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231012/369490_1-20231012-081242.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "3×180G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "14.95",
+                          "stock": 0,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 6318,
+                    "image": null,
+                    "logo": null,
+                    "name": "China",
+                    "productsCount": 19,
+                    "slug": "china"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 1109922,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "394677_1"
+                  },
+                  "name": "Grape White Seedless",
+                  "offers": [],
+                  "primaryCategoryId": 4,
+                  "restrictions": null,
+                  "slug": "grape-white-seedless",
+                  "soldByWeight": 1,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/79b3a3be-ead2-4651-b9b2-d9a3df54d46c-WeeklyOffers.webp",
+                      "name": "Weekly Offers",
+                      "slug": "weekly-offers-1"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Grape White Seedless-2.0 KG",
+                      "id": 262540,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250731/a7cebc30-aae1-4d5e-955b-3284646eb387-3946771.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250731/a7cebc30-aae1-4d5e-955b-3284646eb387-3946771.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "2.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "9.92",
+                          "mrp": "35.9",
+                          "stock": 5,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 2000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Grape White Seedless-1.5 KG",
+                      "id": 262539,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250731/a7cebc30-aae1-4d5e-955b-3284646eb387-3946771.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250731/a7cebc30-aae1-4d5e-955b-3284646eb387-3946771.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.5 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "7.44",
+                          "mrp": "26.93",
+                          "stock": 6,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Grape White Seedless-1.0 KG",
+                      "id": 262538,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250731/a7cebc30-aae1-4d5e-955b-3284646eb387-3946771.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250731/a7cebc30-aae1-4d5e-955b-3284646eb387-3946771.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "4.96",
+                          "mrp": "17.95",
+                          "stock": 10,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Grape White Seedless-500 G",
+                      "id": 262537,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250731/a7cebc30-aae1-4d5e-955b-3284646eb387-3946771.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250731/a7cebc30-aae1-4d5e-955b-3284646eb387-3946771.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "500 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "2.48",
+                          "mrp": "8.98",
+                          "stock": 20,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Grape White Seedless-250 G",
+                      "id": 262536,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250731/a7cebc30-aae1-4d5e-955b-3284646eb387-3946771.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20250731/a7cebc30-aae1-4d5e-955b-3284646eb387-3946771.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "250 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "1.24",
+                          "mrp": "4.49",
+                          "stock": 40,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 250,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 2,
+                    "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20190414/almarai-01-20190414-061647.jpg",
+                    "logo": null,
+                    "name": "Almarai",
+                    "productsCount": 232,
+                    "slug": "almarai"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 1267,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "1012"
+                  },
+                  "name": "Cooking Cream Full Fat",
+                  "offers": [],
+                  "primaryCategoryId": 41,
+                  "restrictions": null,
+                  "slug": "full-fat-cooking-cream",
+                  "soldByWeight": 0,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/79b3a3be-ead2-4651-b9b2-d9a3df54d46c-WeeklyOffers.webp",
+                      "name": "Weekly Offers",
+                      "slug": "weekly-offers-1"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Cooking Cream Full Fat-1L",
+                      "id": 2716,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20230316/274803_1-20230316-122522.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20230316/274803_2-20230316-122528.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20230316/274803_3-20230316-122533.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20230316/274803_1-20230316-122522.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20230316/274803_2-20230316-122528.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20230316/274803_3-20230316-122533.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1L",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "27.95",
+                          "stock": 217,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Cooking Cream Full Fat-500ML",
+                      "id": 2714,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220323/274802_1-20220323-140917.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20201031/274802_2-20201031-220826.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220323/274802_1-20220323-140917.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20201031/274802_2-20201031-220826.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "500ML",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "3.96",
+                          "mrp": "16.95",
+                          "stock": 454,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Cooking Cream Full Fat-250ML",
+                      "id": 2713,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220323/274800_1-20220323-140607.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20201101/274800_2-20201101-005517.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20220323/274800_1-20220323-140607.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20201101/274800_2-20201101-005517.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "250ML",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "8.95",
+                          "stock": 0,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 128,
+                    "image": null,
+                    "logo": null,
+                    "name": "Lurpak",
+                    "productsCount": 9,
+                    "slug": "lurpak"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 1230,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "1023"
+                  },
+                  "name": "Unsalted Butter",
+                  "offers": [],
+                  "primaryCategoryId": 40,
+                  "restrictions": null,
+                  "slug": "unsalted-butter",
+                  "soldByWeight": 0,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "RAMADAN ESSENTIALS",
+                      "slug": "ramadan-promotion"
+                    },
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "Dairy",
+                      "slug": "dairy-109"
+                    },
+                    {
+                      "description": "",
+                      "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/79b3a3be-ead2-4651-b9b2-d9a3df54d46c-WeeklyOffers.webp",
+                      "name": "Weekly Offers",
+                      "slug": "weekly-offers-1"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Unsalted Butter-6×50G",
+                      "id": 240206,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20220523/346431_1-20220523-120003.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20220523/346431_1-20220523-120003.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "6×50G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "26.5",
+                          "stock": 19,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Unsalted Butter-100G",
+                      "id": 2612,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/185030_1-20231019-132501.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/185030_2-20231019-132503.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/185030_3-20231019-132506.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/185030_4-20231019-132508.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20221212/nf-20221212-125153.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/185030_1-20231019-132501.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/185030_2-20231019-132503.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/185030_3-20231019-132506.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/185030_4-20231019-132508.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20221212/nf-20221212-125153.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "100G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "4.5",
+                          "mrp": "9.5",
+                          "stock": 68,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Unsalted Butter-400G",
+                      "id": 2608,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/139613_1-20231019-131022.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/139613_2-20231019-131024.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/139613_3-20231019-131027.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/139613_4-20231019-131029.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20221212/nf-20221212-124745.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/139613_1-20231019-131022.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/139613_2-20231019-131024.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/139613_3-20231019-131027.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/139613_4-20231019-131029.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20221212/nf-20221212-124745.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "400G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "29.95",
+                          "stock": 85,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Unsalted Butter-200G",
+                      "id": 2607,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/136991_1-20231019-130747.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/136991_2-20231019-130749.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/136991_3-20231019-130752.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/136991_4-20231019-130754.png",
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20221212/nf-20221212-124734.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/136991_1-20231019-130747.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/136991_2-20231019-130749.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/136991_3-20231019-130752.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/136991_4-20231019-130754.png",
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20221212/nf-20221212-124734.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "200G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "17.5",
+                          "stock": 0,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 7017,
+                    "image": null,
+                    "logo": null,
+                    "name": "KSA",
+                    "productsCount": 391,
+                    "slug": "ksa"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 1734,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "124376_1"
+                  },
+                  "name": "Romaine Lettuce",
+                  "offers": [],
+                  "primaryCategoryId": 5,
+                  "restrictions": null,
+                  "slug": "romaine-lettuce",
+                  "soldByWeight": 1,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Romaine Lettuce-2.0 KG",
+                      "id": 21630,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/124376_1-20231019-130916.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/124376_1-20231019-130916.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "2.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "11.9",
+                          "stock": 5,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 2000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Romaine Lettuce-1.5 KG",
+                      "id": 21629,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/124376_1-20231019-130916.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/124376_1-20231019-130916.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.5 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "8.93",
+                          "stock": 6,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Romaine Lettuce-1.0 KG",
+                      "id": 21628,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/124376_1-20231019-130916.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/124376_1-20231019-130916.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "5.95",
+                          "stock": 11,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 4920,
+                    "image": null,
+                    "logo": null,
+                    "name": "Al Youm",
+                    "productsCount": 65,
+                    "slug": "al-youm"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 193715,
+                  "images": [
+                    "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240306/3570721-20240306-071529.webp"
+                  ],
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "357072_1"
+                  },
+                  "name": "Chicken Breast Fillet",
+                  "offers": [],
+                  "primaryCategoryId": 22,
+                  "restrictions": null,
+                  "slug": "chicken-breast-fillet-9",
+                  "soldByWeight": 0,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "Poultery",
+                      "slug": "poultery"
+                    },
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "Al Youm",
+                      "slug": "al-youm-1"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Chicken Breast Fillet-450 G",
+                      "id": 255909,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20240522/3570721-20240522-121939.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20240522/3570721-20240522-121939.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "450 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "3.75",
+                          "mrp": "23.5",
+                          "stock": 88,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 106,
+                    "image": null,
+                    "logo": null,
+                    "name": "Puck",
+                    "productsCount": 60,
+                    "slug": "puck"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 194796,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "1026"
+                  },
+                  "name": "Spreadable Cream Cheese Jar",
+                  "offers": [],
+                  "primaryCategoryId": 40,
+                  "restrictions": null,
+                  "slug": "spreadable-cream-cheese-15",
+                  "soldByWeight": 0,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "RAMADAN ESSENTIALS",
+                      "slug": "ramadan-promotion"
+                    },
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "Ramadan",
+                      "slug": "ramadan-18"
+                    },
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "Dairy",
+                      "slug": "dairy-109"
+                    },
+                    {
+                      "description": "",
+                      "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/79b3a3be-ead2-4651-b9b2-d9a3df54d46c-WeeklyOffers.webp",
+                      "name": "Weekly Offers",
+                      "slug": "weekly-offers-1"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Spreadable Cream Cheese Jar-1100G",
+                      "id": 256489,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240703/2128891-20240703-082607.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240703/2128891-20240703-082607.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1100G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "40.95",
+                          "stock": 7,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Spreadable Cream Cheese Jar-2×500G",
+                      "id": 256488,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240822/2058971-20240822-130533.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240822/2058971-20240822-130533.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "2×500G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "23.51",
+                          "mrp": "43.5",
+                          "stock": 93,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Spreadable Cream Cheese Jar-240G",
+                      "id": 256484,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240703/1198131-20240703-082628.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240703/1198131-20240703-082628.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "240G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "10.95",
+                          "stock": 26,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Spreadable Cream Cheese Jar-140G",
+                      "id": 256483,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240703/1198101-20240703-082640.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240703/1198101-20240703-082640.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "140G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "6.95",
+                          "stock": 21,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Spreadable Cream Cheese Jar-500G",
+                      "id": 256482,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240703/1192461-20240703-082659.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240703/1192461-20240703-082659.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "500G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "23.95",
+                          "stock": 624,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Spreadable Cream Cheese Jar-910G",
+                      "id": 256481,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240703/1188521-20240703-082727.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240703/1188521-20240703-082727.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "910G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "37.95",
+                          "stock": 20,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Spreadable Cream Cheese Jar-2×900G",
+                      "id": 256490,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240822/2166891-20240822-130058.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20240822/2166891-20240822-130058.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "2×900G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "63.5",
+                          "stock": 0,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 174,
+                    "image": null,
+                    "logo": null,
+                    "name": "Alosra",
+                    "productsCount": 20,
+                    "slug": "alosra"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 129202,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "1530"
+                  },
+                  "name": "Fine Sugar",
+                  "offers": [],
+                  "primaryCategoryId": 90,
+                  "restrictions": null,
+                  "slug": "fine-sugar-5",
+                  "soldByWeight": 0,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "Al Osra",
+                      "slug": "al-osra-1"
+                    },
+                    {
+                      "description": "",
+                      "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/79b3a3be-ead2-4651-b9b2-d9a3df54d46c-WeeklyOffers.webp",
+                      "name": "Weekly Offers",
+                      "slug": "weekly-offers-1"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Fine Sugar-5Kg",
+                      "id": 228033,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20210811/263377_1-20210811-121336.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20210811/263377_1-20210811-121336.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "5Kg",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "8.51",
+                          "mrp": "23.5",
+                          "stock": 158,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Fine Sugar-10Kg",
+                      "id": 217926,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/174814_1-20231019-123245.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/174814_1-20231019-123245.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "10Kg",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "44.95",
+                          "stock": 100,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 7017,
+                    "image": null,
+                    "logo": null,
+                    "name": "KSA",
+                    "productsCount": 391,
+                    "slug": "ksa"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 1784,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "145158_1"
+                  },
+                  "name": "Squash Butternut",
+                  "offers": [],
+                  "primaryCategoryId": 5,
+                  "restrictions": null,
+                  "slug": "squash-butternut",
+                  "soldByWeight": 1,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Squash Butternut-2.0 KG",
+                      "id": 21779,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/145158_1-20231019-133455.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/145158_1-20231019-133455.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "2.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "13",
+                          "stock": 5,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 2000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Squash Butternut-1.5 KG",
+                      "id": 21778,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/145158_1-20231019-133455.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/145158_1-20231019-133455.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.5 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "9.75",
+                          "stock": 7,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Squash Butternut-1.0 KG",
+                      "id": 21777,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/145158_1-20231019-133455.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/145158_1-20231019-133455.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "6.5",
+                          "stock": 10,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Squash Butternut-500 G",
+                      "id": 21776,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/145158_1-20231019-133455.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20231019/145158_1-20231019-133455.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "500 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "3.25",
+                          "stock": 21,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 7140,
+                    "image": null,
+                    "logo": null,
+                    "name": "Driscoll's USA",
+                    "productsCount": 4,
+                    "slug": "driscolls-usa"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 157664,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "336599_1"
+                  },
+                  "name": "Raspberry",
+                  "offers": [],
+                  "primaryCategoryId": 4,
+                  "restrictions": null,
+                  "slug": "raspberry-59",
+                  "soldByWeight": 0,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/79b3a3be-ead2-4651-b9b2-d9a3df54d46c-WeeklyOffers.webp",
+                      "name": "Weekly Offers",
+                      "slug": "weekly-offers-1"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Raspberry-125 G",
+                      "id": 243619,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20251014/6b37616d-0b8c-4a14-9fa9-9a8bbf27d791-3365991.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20251014/6b37616d-0b8c-4a14-9fa9-9a8bbf27d791-3365991.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "125 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "4.96",
+                          "mrp": "19.95",
+                          "stock": 47,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 7017,
+                    "image": null,
+                    "logo": null,
+                    "name": "KSA",
+                    "productsCount": 391,
+                    "slug": "ksa"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 1110238,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "215631_1"
+                  },
+                  "name": "Fresh Veal Ground",
+                  "offers": [],
+                  "primaryCategoryId": 16,
+                  "restrictions": null,
+                  "slug": "fresh-veal-ground",
+                  "soldByWeight": 1,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/79b3a3be-ead2-4651-b9b2-d9a3df54d46c-WeeklyOffers.webp",
+                      "name": "Weekly Offers",
+                      "slug": "weekly-offers-1"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Fresh Veal Ground-2.0 KG",
+                      "id": 262928,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251207/9aeaf205-86d0-4b7c-bcf6-91613cfba284-2156311.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251207/9aeaf205-86d0-4b7c-bcf6-91613cfba284-2156311.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "2.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "15.92",
+                          "mrp": "145.9",
+                          "stock": 5,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 2000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Fresh Veal Ground-1.5 KG",
+                      "id": 262925,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251207/9aeaf205-86d0-4b7c-bcf6-91613cfba284-2156311.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251207/9aeaf205-86d0-4b7c-bcf6-91613cfba284-2156311.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.5 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "11.94",
+                          "mrp": "109.43",
+                          "stock": 6,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Fresh Veal Ground-1.0 KG",
+                      "id": 262922,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251207/9aeaf205-86d0-4b7c-bcf6-91613cfba284-2156311.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251207/9aeaf205-86d0-4b7c-bcf6-91613cfba284-2156311.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "7.96",
+                          "mrp": "72.95",
+                          "stock": 10,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Fresh Veal Ground-500 G",
+                      "id": 262917,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251207/9aeaf205-86d0-4b7c-bcf6-91613cfba284-2156311.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20251207/9aeaf205-86d0-4b7c-bcf6-91613cfba284-2156311.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "500 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "3.98",
+                          "mrp": "36.48",
+                          "stock": 20,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 6231,
+                    "image": null,
+                    "logo": null,
+                    "name": "Italy",
+                    "productsCount": 144,
+                    "slug": "italy"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 190323,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "367359_1"
+                  },
+                  "name": "Organic Apple Gala",
+                  "offers": [],
+                  "primaryCategoryId": 4,
+                  "restrictions": null,
+                  "slug": "organic-apple-red-gala-italy",
+                  "soldByWeight": 1,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/79b3a3be-ead2-4651-b9b2-d9a3df54d46c-WeeklyOffers.webp",
+                      "name": "Weekly Offers",
+                      "slug": "weekly-offers-1"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Organic Apple Gala-2.0 KG",
+                      "id": 253639,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20240326/3673591-20240326-120635.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20240326/3673591-20240326-120635.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "2.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "9.92",
+                          "mrp": "25.9",
+                          "stock": 5,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 2000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Organic Apple Gala-1.5 KG",
+                      "id": 253637,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20240326/3673591-20240326-120635.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20240326/3673591-20240326-120635.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.5 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "7.44",
+                          "mrp": "19.43",
+                          "stock": 6,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Organic Apple Gala-1.0 KG",
+                      "id": 253635,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20240326/3673591-20240326-120635.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20240326/3673591-20240326-120635.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "1.0 KG",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "4.96",
+                          "mrp": "12.95",
+                          "stock": 10,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1000,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Organic Apple Gala-500 G",
+                      "id": 253631,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20240326/3673591-20240326-120635.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20240326/3673591-20240326-120635.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "500 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "2.48",
+                          "mrp": "6.48",
+                          "stock": 20,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 500,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 3768,
+                    "image": null,
+                    "logo": null,
+                    "name": "Tanmiah",
+                    "productsCount": 39,
+                    "slug": "tanmiah"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 16023,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "356964_1"
+                  },
+                  "name": "Chicken Breast Boneless",
+                  "offers": [],
+                  "primaryCategoryId": 22,
+                  "restrictions": null,
+                  "slug": "chilled-boneless-breast",
+                  "soldByWeight": 0,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "Poultery",
+                      "slug": "poultery"
+                    },
+                    {
+                      "description": "",
+                      "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250928/79b3a3be-ead2-4651-b9b2-d9a3df54d46c-WeeklyOffers.webp",
+                      "name": "Weekly Offers",
+                      "slug": "weekly-offers-1"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Chicken Breast Boneless-450 G",
+                      "id": 27556,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20211020/356964_1-20211020-085400.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20211020/356964_1-20211020-085400.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "450 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "4.26",
+                          "mrp": "23.25",
+                          "stock": 55,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 6229,
+                    "image": null,
+                    "logo": null,
+                    "name": "Egypt",
+                    "productsCount": 90,
+                    "slug": "egypt-1"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 1108153,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "186078_1"
+                  },
+                  "name": "Strawberry",
+                  "offers": [],
+                  "primaryCategoryId": 4,
+                  "restrictions": null,
+                  "slug": "strawberry-272",
+                  "soldByWeight": 0,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Strawberry-250 G",
+                      "id": 260074,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20241211/1860781-20241211-080906.webp"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/1/images/640/20241211/1860781-20241211-080906.webp"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "250 G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "1.51",
+                          "mrp": "4.5",
+                          "stock": 308,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "averageRating": 0,
+                  "brand": {
+                    "id": 212,
+                    "image": null,
+                    "logo": null,
+                    "name": "President",
+                    "productsCount": 29,
+                    "slug": "president"
+                  },
+                  "handlingDays": 0,
+                  "hasVariants": 1,
+                  "id": 1149,
+                  "images": null,
+                  "imagesExtra": null,
+                  "metaData": {
+                    "merchandise": "271"
+                  },
+                  "name": "Shredded Mozzarella Cheese",
+                  "offers": [],
+                  "primaryCategoryId": 40,
+                  "restrictions": null,
+                  "slug": "shredded-mozzarella-cheese",
+                  "soldByWeight": 0,
+                  "stockOverride": {
+                    "enableMultiple": false,
+                    "maxPurchasableStock": null,
+                    "minPurchasableStock": null,
+                    "stockBuffer": null,
+                    "storeBulkOrderThreshold": null
+                  },
+                  "storeSpecificData": null,
+                  "tags": [
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "Dairy",
+                      "slug": "dairy-111"
+                    },
+                    {
+                      "description": "",
+                      "image": "",
+                      "name": "Dairy",
+                      "slug": "dairy-110"
+                    }
+                  ],
+                  "totalReviews": 0,
+                  "type": "PRODUCT",
+                  "variants": [
+                    {
+                      "fullName": "Shredded Mozzarella Cheese-900G",
+                      "id": 2353,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20201031/216545_1-20201031-220956.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20201031/216545_1-20201031-220956.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "900G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "0",
+                          "mrp": "50.95",
+                          "stock": 13,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Shredded Mozzarella Cheese-450G",
+                      "id": 2352,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20201031/216544_1-20201031-220829.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20201031/216544_1-20201031-220829.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "450G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "2.96",
+                          "mrp": "26.95",
+                          "stock": 34,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    },
+                    {
+                      "fullName": "Shredded Mozzarella Cheese-200G",
+                      "id": 2351,
+                      "images": [
+                        "https://storage.googleapis.com/tm-zopsmart-uploads/320/20201101/216543_1-20201101-031151.png"
+                      ],
+                      "imagesExtra": {
+                        "s320": [
+                          "https://storage.googleapis.com/tm-zopsmart-uploads/320/20201101/216543_1-20201101-031151.png"
+                        ]
+                      },
+                      "metaData": null,
+                      "name": "200G",
+                      "offers": [],
+                      "properties": null,
+                      "restrictions": null,
+                      "stockOverride": {
+                        "enableMultiple": false,
+                        "maxPurchasableStock": null,
+                        "minPurchasableStock": null,
+                        "stockBuffer": null,
+                        "storeBulkOrderThreshold": null
+                      },
+                      "storeSpecificData": [
+                        {
+                          "discount": "1",
+                          "mrp": "12.5",
+                          "stock": 34,
+                          "storeId": 4,
+                          "tax": {
+                            "VAT": 15
+                          },
+                          "unit": 1,
+                          "unlimitedStock": false
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "title": "Best Sellers"
+          }
+        },
+        {
+          "data": {
+            "images": [
+              {
+                "gifUrl": "",
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250706/61d4aa1a-285e-4d78-b7c5-92071a52da3b-THEMARIEN.webp",
+                "link": "",
+                "text": ""
+              }
+            ]
+          },
+          "name": "ImageSlideShow",
+          "value": {
+            "images": [
+              {
+                "gifUrl": "",
+                "imageUrl": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250706/61d4aa1a-285e-4d78-b7c5-92071a52da3b-THEMARIEN.webp",
+                "link": "",
+                "text": ""
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "brandIds": [
+              3820,
+              5067,
+              4185,
+              132
+            ],
+            "layoutType": "GRID",
+            "showProductCount": false,
+            "title": "Shop by Brand"
+          },
+          "name": "BrandCollection",
+          "value": {
+            "collection": [
+              {
+                "brand": {
+                  "id": 3820,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20210524/TMlogo-png-20210524-113451.png",
+                  "logo": null,
+                  "name": "Tamimi Markets",
+                  "productsCount": 188,
+                  "slug": "tamimi-markets--1"
+                }
+              },
+              {
+                "brand": {
+                  "id": 5067,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20210414/Sainsburys_Logo_Masterbrand_Orange_RGB-20210414-091205.jpg",
+                  "logo": null,
+                  "name": "Sainsbury's",
+                  "productsCount": 256,
+                  "slug": "sainsburys"
+                }
+              },
+              {
+                "brand": {
+                  "id": 4185,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/originals/20201015/safeway-logo-20201015-134515.png",
+                  "logo": null,
+                  "name": "Safeway",
+                  "productsCount": 471,
+                  "slug": "safeway"
+                }
+              },
+              {
+                "brand": {
+                  "id": 132,
+                  "image": "https://storage.googleapis.com/tm-zopsmart-uploads/2/images/originals/20250206/NewPepsiLogoCMYK01-20250206-122705.webp",
+                  "logo": null,
+                  "name": "Pepsi",
+                  "productsCount": 21,
+                  "slug": "pepsi"
+                }
+              }
+            ],
+            "title": "Shop by Brand"
+          }
+        }
+      ],
+      "name": "HOME",
+      "pageId": 6,
+      "showFilter": true,
+      "validFrom": null,
+      "validTill": null
+    }
+  },
+  "status": "SUCCESS"
+}
