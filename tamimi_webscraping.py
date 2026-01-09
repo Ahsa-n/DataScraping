@@ -39,8 +39,8 @@ brandname = driver.find_elements(By.CSS_SELECTOR, ".Text-sc-1bsd7ul-0.ebqvdy")
 for brand in brandname:
     brands.append(brand.get_attribute("textContent"))
 price = driver.find_elements(By.CSS_SELECTOR, ".Text-sc-1bsd7ul-0.buIGqH")
-for price in price:
-    prices.append(price.get_attribute("textContent"))
+for p in price:
+    prices.append(p.get_attribute("textContent"))
 link = driver.find_elements(By.CSS_SELECTOR, "div[data-testid='product-collection'] a[href^='/product/']")
 for a in link:
     links.append(a.get_attribute("href"))
