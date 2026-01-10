@@ -1,6 +1,8 @@
 import json
 import pandas as pd
-import openpyxl
+from sqlalchemy import create_engine
+
+
 with open('tamimi_home_page.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 # variants = 0
@@ -18,5 +20,7 @@ for product in products:
         for s in specific:
             df.loc[len(df)] = [v["fullName"], product["brand"]["name"], s["mrp"], float(s["mrp"]) - float(s["discount"]), s["stock"]]
 print(df)       
-df.to_csv('products.csv', index=False)
-df.to_excel('products.xlsx', index=False)
+df.to_csv('BestSelling_products.csv', index=False)
+df.to_excel('BestSelling_products.xlsx', index=False)
+engine= create_engine('sqlite:///bestselling.db', echo=True)
+df.to_sql('bestselling', con=engine, if_exists='replace', index=False)
